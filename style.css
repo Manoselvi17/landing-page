@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    color:white;
+    background-color: black;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+    
+}
+ul{
+    margin-left:60%;
+}
+li{
+    color: grey;
+    cursor:pointer;
+}
+li:hover{
+    color:white;
+
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+.image:hover{
+    color: grey;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
